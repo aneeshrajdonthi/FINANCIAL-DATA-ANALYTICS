@@ -3,7 +3,7 @@ This repository contains my portfolio of investment and finance-related data sci
 
 All of the following projects were coded and tested through the Domino Data Lab platform (https://www.dominodatalab.com). I chose to use Domino because the platform allows for easy access to Jupyter notebooks, a built-in terminal, and offline scheduling of jobs for periodic regulation of stock prices.
 
-# Projects
+## Projects
 Better Buy:A Novel Stock Value Joint-Analysis and Comparison Tool:
 
 Performs complete comparisons of competitive strategy, financial strength, growth potential, and valuation of two companies through fundamental and technical analysis.
